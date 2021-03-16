@@ -1,0 +1,79 @@
+Student
+Jennifer
+purple48
+FSF1DG FSF2DG 
+1.0 2.0 3.0
+2.0 2.5 3.5
+3.0 3.0 4.0
+3.0 3.5 4.5
+Done
+Student
+Angela
+jello
+FSF1DG FSF2DG 
+2.0 2.5 3.5
+3.0 3.0 4.0
+3.0 3.5 4.5
+Done
+Student
+Pete
+carpet
+FSF1DG 
+1.0 5.0 3.0
+2.0 6.0 3.0
+2.0 7.0 4.0
+3.0 8.0 5.0
+Done
+Student
+John
+carpet
+FSF1DG FSF2DG 
+4.0 4.0 4.0
+4.0 5.0 5.0
+5.0 6.0 7.0
+6.0 6.0 6.0
+8.0 6.0 7.0
+Done
+Student
+Sally
+desk
+FSF1DG 
+1.0 1.0 1.0
+2.0 3.0 2.0
+3.0 4.0 3.0
+6.0 6.0 6.0
+Done
+Student
+George
+yellow!
+FSF1DG 
+3.0 4.0 4.0
+Done
+Teacher
+Ms.Lee
+qwerty6
+FSF1DG FSF2DG FSF4U6 FSF4UR 
+Student
+Samantha
+bleu7
+FSF3U1 
+5.0 5.0 5.0
+6.0 5.0 5.0
+6.0 6.0 7.0
+Done
+Teacher
+Mr.Smith
+zxcv6
+FSF3U1 
+Courses
+FSF1DG Ms.Lee
+Jennifer George Pete John Sally Angels 
+FSF2DG Ms.Lee
+Jennifer John Angela 
+FSF3U1 Mr.Smith
+Samantha Jennifer George 
+FSF4U6 Ms.Lee
+Steve 
+FSF4UR Ms.Lee
+
+Done
